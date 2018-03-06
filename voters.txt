@@ -1,0 +1,5 @@
+1234:Herb Weaselman:true
+9876:Marge Margificent:true
+4444:Ingmar Inglenook:false
+8888:Hector Heroman:false
+5678:Agnes Angular:true
